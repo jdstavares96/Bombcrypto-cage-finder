@@ -1,0 +1,16 @@
+# [en_US] Start a Telegram conversation with the @btsit_bot and type /id to get your_chat_id.
+# [pt_BR] Inicie uma conversa no Telegram com @btsit_bot e digite /id para pegar o your_chat_id.
+
+# [en_US] Start a Telegram conversation with @botfather and type /newbot to get your_telegram_bot_token.
+# [pt_BR] Inicie uma conversa no Telegram com @botfather e digite /newbot para pegar o your_telegram_bot_token.
+
+telegram_enable: false
+telegram_chat_id: ["751981725", "YOUR_CHAT_ID2(optional)"]
+telegram_bot_token: "1456282021:AAEmKaSAT3YC0z8BxauYlmltluHTyY_BW8w"
+enable_coin_report: false
+enable_map_report: false
+format_of_images: "jpg"
+
+# [en_US] Enable to receive call on error/new captcha (in development)
+# [pt_BR] Habilitar para receber chamada em caso de erro/novo captcha (em desenvolvimento)
+enable_emergency_call: false
