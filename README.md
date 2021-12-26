@@ -3,6 +3,16 @@ Um bot feito em python para criar contas na metamask/bombcrypto na procura de um
 
 Usar a Metamask em Português ou substituir as imagens da pasta target
 
+Para receber as notificações via Telegram, vá até a pasta config, abra o arquivo telegram.yaml e edite as linhas:
+
+```
+telegram_enable: false
+telegram_chat_id: ["YOUR_CHAT_ID", "YOUR_CHAT_ID2(optional)"]
+telegram_bot_token: "YOUR_BOT_TOKEN"
+```
+
+troque false por true, YOUR_CHAT_ID pelo id do seu telegram e YOUR_TOKEN_BOT pelo token do seu bot do Telegram
+
 # Doações: 
 
 BSC - Binance Smart Chain (BEP20): 0x290319a03774189a00814d80ec861035d5223ba4
